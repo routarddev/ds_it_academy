@@ -1,2 +1,3 @@
-# ds_it_academy
-Data Science IT Academy
+### Data Science IT Academy
+
+Exercices and tutorials of the Data Science itinerary.
