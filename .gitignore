@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Files
+sprint_3/files/DelayedFlights.csv
+
+
 # Distribution / packaging
 .Python
 build/
